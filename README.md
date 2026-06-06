@@ -13,7 +13,12 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Google_Play-Coming_Soon-grey?style=for-the-badge&logo=googleplay" alt="Google Play Coming Soon" />
+  &nbsp;
   <a href="https://github.com/sirmordred/Salda/releases/latest"><img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK" /></a>
+</p>
+<p align="center">
+  <sub>Currently under Google Play review &mdash; will be available on Google Play soon.</sub>
 </p>
 
 ---

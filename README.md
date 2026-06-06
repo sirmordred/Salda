@@ -20,7 +20,7 @@
 
 ## Demo
 
-https://github.com/user-attachments/assets/demo.mp4
+<video src="https://github.com/sirmordred/Salda/releases/download/v1/demo.mp4" width="300" controls></video>
 
 > *Type a prompt, watch it build, install the result.*
 
